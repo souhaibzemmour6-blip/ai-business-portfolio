@@ -1,7 +1,7 @@
 async function repondre() {
   const question = document.getElementById("question").value.toLowerCase();
 
-  const response = await fetch("questions_restaurant.json");
+  const response = await fetch("./questions_restaurant.json");
   const data = await response.json();
 
   const resultat = data.find(item =>
