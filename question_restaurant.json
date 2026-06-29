@@ -1,22 +1,22 @@
 [
   {
-    "question": "Bonjour",
+    "question": "bonjour",
     "reponse": "Bonjour ! Bienvenue dans notre restaurant. Comment puis-je vous aider ?"
   },
   {
-    "question": "Quels sont vos horaires ?",
+    "question": "quels sont vos horaires ?",
     "reponse": "Nous sommes ouverts tous les jours de 11h à 22h."
   },
   {
-    "question": "Avez-vous des plats végétariens ?",
-    "reponse": "Oui, nous proposons plusieurs plats végétariens."
+    "question": "avez-vous des plats vegetariens ?",
+    "reponse": "Oui, nous proposons plusieurs plats vegetariens."
   },
   {
-    "question": "Puis-je réserver une table ?",
-    "reponse": "Oui, vous pouvez réserver par téléphone ou sur notre site."
+    "question": "puis-je reserver une table ?",
+    "reponse": "Oui, vous pouvez reserver par telephone ou sur notre site."
   },
   {
-    "question": "Où êtes-vous situés ?",
-    "reponse": "Notre restaurant est situé au centre-ville."
+    "question": "ou etes-vous situes ?",
+    "reponse": "Notre restaurant est situe au centre-ville."
   }
 ]
