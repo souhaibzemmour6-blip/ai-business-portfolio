@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot Restaurant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🍽️ Chatbot Restaurant</h1>
+
+<p>Posez votre question :</p>
+
+<input type="text" id="question" placeholder="Ex : Quels sont vos horaires ?">
+<button onclick="repondre()">Envoyer</button>
+
+<p id="reponse"></p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
